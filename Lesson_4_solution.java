@@ -1,7 +1,6 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Main {
+public class Lesson_4_solution {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
